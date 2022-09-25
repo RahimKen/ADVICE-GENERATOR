@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/REACT-JS/static/css/main.ad33d464.css",
+    "main.js": "/REACT-JS/static/js/main.6c1532a5.js",
+    "index.html": "/REACT-JS/index.html",
+    "static/media/icon-dice.svg": "/REACT-JS/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
+    "static/media/pattern-divider-mobile.svg": "/REACT-JS/static/media/pattern-divider-mobile.aca38726412164df099c43d4f2fed72e.svg",
+    "main.ad33d464.css.map": "/REACT-JS/static/css/main.ad33d464.css.map",
+    "main.6c1532a5.js.map": "/REACT-JS/static/js/main.6c1532a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad33d464.css",
+    "static/js/main.6c1532a5.js"
+  ]
+}
